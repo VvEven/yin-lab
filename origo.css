@@ -125,7 +125,7 @@ body.freestyle01 ul.menu li {list-style:none; text-align:left; font-size:1.0em; 
 body.freestyle01 ul.menu li a {font-size:1.0em; color:#555; padding:7px 5px 7px 8px; border-left:0px solid #ccc; display:block; font-weight:400;}
 body.freestyle01 ul.menu li a:hover, body.freestyle01 ul.menu li a.current {color:#333; border-color:#3288a8; text-decoration:none;}
 body.freestyle01 ul.menu ul.subpages {margin:9px 0 -10px 15px;}
-body.freestyle01 ul.menu ul.subpages a {font-size:0.8em; padding:4px 5px 4px 8px;}
+body.freestyle01 ul.menu ul.subpages a {font-size:0.8em; padding:4px 5px 4px 5px;}
 body.freestyle01 #footer {font-size:0.9em; color:#999;}
 body.freestyle01 #footer p {color:#999;}
 body.freestyle01 #footer p a {color:#999;}
